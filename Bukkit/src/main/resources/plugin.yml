@@ -1,0 +1,8 @@
+name: SanseLib
+version: '${version}'
+main: work.microhand.sanselib.SanseLib
+api-version: 1.19
+prefix: SanseLib
+authors: [ SanseYooyea ]
+description: SanseYooyea's Bukkit Plugin Lib
+website: microhand.work

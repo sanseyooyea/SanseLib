@@ -1,0 +1,4 @@
+rootProject.name = 'SanseLib'
+include 'Common'
+include 'Bukkit'
+

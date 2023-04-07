@@ -1,0 +1,12 @@
+plugins {
+    id 'java'
+}
+
+group = "work.microhand"
+version = "1.0-SNAPSHOT"
+
+subprojects {
+    println(project.name)
+    version = rootProject.version
+    group = rootProject.version
+}
